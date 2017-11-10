@@ -1,4 +1,4 @@
-# interview_resources
+# interview_softskills
 
 ## Interview Soft Skills
 
